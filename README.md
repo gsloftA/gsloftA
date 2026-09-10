@@ -4,11 +4,15 @@
 
 👨🏽‍💻 Dall'intuizione del Founder di **GS LOFT** a un metodo di coaching unico pensato per il benessere psicofisico.
 
-**GS LOFT** nasce nel 2018 a Desenzano del Garda da un’intuizione di **Giacomo Spazzini**, biohacking coach, imprenditore e autore. L’idea era semplice ma potente: creare un luogo in cui le persone potessero davvero prendersi cura di sé, in modo integrato e personalizzato.
+Dall'intuizione del Founder di **GS LOFT** a un'infrastruttura digitale costruita su misura per il metodo.
 
-Oggi presente anche a Milano, **GS LOFT** è cresciuta fino a diventare un punto di riferimento in Italia per chi cerca un percorso concreto di benessere psicofisico. I nostri programmi si fondano su sette pilastri fondamentali: prevenzione, nutrizione, allenamento, integrazione, gestione di tempo, sonno e stress.
+Il team Dev di **GS LOFT** nasce da un'esigenza precisa: un metodo di coaching personalizzato genera dati, processi e strumenti che nessun software standard riesce a tenere insieme. Da qui la scelta di sviluppare internamente, invece di adattarsi a piattaforme pensate per altri.
 
-Ogni percorso è supportato da test avanzati di medicina di precisione, come test genetici, epigenetici, del microbiota, ormonali e VO2max. Il nostro team – composto da medici, nutrizionisti, chinesiologi, trainer e coach del benessere – lavora in sinergia per guidarti in un percorso su misura. Il nostro obiettivo è chiaro: aiutarti a vivere meglio e più a lungo intervenendo sulla tua routine quotidiana.
+Oggi il team lavora su tutto ciò che sta dietro l'esperienza delle persone che seguiamo: il portale club.gsloft.it, le landing page dei programmi, la centralizzazione del dato tra CRM, business intelligence e database interni, la sicurezza degli accessi aziendali. Ogni progetto risponde a sette principi guida: dato unico, integrazione tra sistemi, automazione, sicurezza, controllo dell'infrastruttura, tracciabilità e continuità nel tempo.
+
+Le scelte tecnologiche seguono la stessa logica del metodo: strumenti misurabili e sotto il nostro controllo. Connettori scritti internamente per portare il dato di HubSpot dove serve, dashboard accessibili solo dalla rete aziendale, repository versionati su GitHub, deploy automatizzati, vault delle credenziali self-hosted su server europeo. Nulla di delegato quando riguarda i dati delle persone.
+
+Il team – sviluppatori, gestione dell'infrastruttura e referenti di prodotto – lavora a stretto contatto con marketing, commerciale e area tecnica del metodo. L'obiettivo è chiaro: rendere il metodo **GS LOFT** scalabile senza perdere la personalizzazione che lo rende unico.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
