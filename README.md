@@ -1,4 +1,9 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=GS%20LOFT&width=800&height=110)](https://github.com/Akshay090/svg-banners)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/LOGO_GSLOFT_RGB_BIANCO.png">
+    <img alt="GS LOFT" src="assets/LOGO_GSLOFT_RGB_NERO.png" width="420">
+  </picture>
+</p>
 
 ### GS Loft DEV
 
