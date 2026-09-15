@@ -7,7 +7,7 @@
 
 👨🏽‍💻 Il team Dev di **GS LOFT** nasce da un'intuizione semplice ma potente: un metodo su misura ha bisogno di strumenti su misura. 
 
-Da qui la scelta di sviluppare tutto internamente il portale, le landing page, la centralizzazione del dato, la sicurezza degli accessi. 
+Da qui la scelta di sviluppare tutto internamente. 
 
 Ogni progetto poggia sugli stessi principi che guidano il metodo: misurazione, integrazione, personalizzazione e continuità nel tempo. 
 
